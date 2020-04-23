@@ -1,0 +1,10 @@
+langcode: en
+status: true
+dependencies:
+id: sample
+label: 'Sample Role'
+weight: 3
+is_admin: false
+permissions:
+  - 'access comments'
+  - 'view the administration theme'

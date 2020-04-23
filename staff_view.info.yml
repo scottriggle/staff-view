@@ -1,0 +1,6 @@
+name: 'Staff View'
+description: 'view test'
+package: 'SL'
+type: module
+core: '8.x'
+version: '8.x-1.0'
